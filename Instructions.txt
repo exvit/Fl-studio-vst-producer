@@ -1,0 +1,39 @@
+Avant d'installer:
+- Désactivez votre anti-virus
+- Lors de l'exécution des fichiers du crack, il se peut que votre PC essaie de ne pas les exécutez
+  -> EXECUTEZ QUAND MEME SINON CA NE MARCHE PAS
+
+Pour installer, exécutez FL Studio 20.8.4.2576 Setup.exe
+La distribution utilise le programme d'installation officiel FL Studio 20.8.4.2576.
+Une fois le programme d'installation officiel terminé, FL Studio est automatiquement activé.
+Important! Si l'installation est effectuée sur la version précédente, après l'installation, il est nécessaire d'exécuter FL Studio 20.8.4.2576 Patch.exe à partir du dossier Patch.
+Important! Si, lors de l'installation de FL Stuido, l'installateur officiel vous demande de redémarrer, refusez en le faisant plus tard.
+
+================================================
+Extensions FLEX (Banques pour FLEX).
+================================================
+FLEX Extensions Setup.exe installera automatiquement les extensions dans le dossier de données utilisateur.
+
+    Total : 1,20 Go
+
+================================================
+Plugins supplémentaires de FL Studio 20.9.1.
+================================================
+Le dossier "Addition Plugins from version 20.9.1" contient le programme d'installation des plugins supplémentaires Pitch Shifter et Vintage Chorus de la version 20.9.1.
+Les plugins ne sont installés que pour la version 20.8.4.2576 et ne fonctionneront qu'avec les fichiers FLEngine corrigés dans la version 64 bits de FL Studio.
+Si plusieurs versions de FL Studio sont installées sur le système, FL Studio 20.8.4.2576 Plugins Setup.exe doit être exécuté à partir du dossier avec la version 20.8.4.2576
+
+Attention! Dans la version officielle de FL Studio 20.8.4, ces plugins ne sont pas disponibles, en les installant vous êtes conscient de tous les risques.
+
+================================================
+Informations Complémentaires:
+================================================
+Désactivation de l'envoi de données aux serveurs de développement dans FL Studio et FLEX (par conséquent, les skins pour les extensions FLEX ne seront pas visibles).
+Les plugins qui nécessitent une connexion réseau fonctionneront.
+La liste noire des utilisateurs bloqués a été supprimée de FLEngine.
+Plugins d'essai déverrouillés.
+
+Pièce:
+Le dossier Patch contient l'activateur de patch pour FL Studio version 20.8.4.2576.
+Si plusieurs versions de FL Studio sont installées sur le système, FL Studio 20.8.4.2576 Patch.exe doit être exécuté à partir du dossier avec la version 20.8.4.2576.
+
